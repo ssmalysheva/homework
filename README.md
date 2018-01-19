@@ -26,3 +26,6 @@ __bold___
 
  [HSE](https://www.hse.ru)
  
+ [my university](https://www.hse.ru "мой университет")
+ 
+ 
